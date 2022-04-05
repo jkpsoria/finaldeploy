@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2f2be89e-e6a5-454c-812a-e87978cc2ba7/resourceGroups/group14-resource/providers/Microsoft.Web/sites/group14-sedondantesconferenceroomreservation",
+    "appService.deploySubpath": "."
+}
